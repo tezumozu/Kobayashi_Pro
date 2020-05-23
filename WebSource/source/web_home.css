@@ -1,0 +1,42 @@
+
+ ul{
+display: table;
+margin: 0 auto;
+padding: 0 ;
+width: 80%;
+text-align: center;
+width: 100%;
+}
+ul li{
+display: table-cell;
+min-width: 50px;
+border-bottom: 3px solid #f7c80e;
+border-top: 3px solid #f7c80e;
+margin-left: 20px;
+margin-top: auto;
+margin-bottom: auto;
+}
+ul a{
+display: block;
+width: 100%;
+text-decoration: none;
+color: #000000;
+-webkit-transition: all 0.7s ease;
+　-moz-transition: all 0.7s ease;
+  -o-transition: all 0.7s ease;
+transition: all  0.7s ease;
+padding-bottom:  30px;
+}
+ul li:hover{
+background-color: #3bbab5;
+}
+ul a:hover{
+color: #fff;
+}
+.btn-group {
+  padding-left: 8%;
+  width: 100%;
+}
+ul{
+  padding-right: 8%;
+}
