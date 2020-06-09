@@ -11,8 +11,8 @@ width: 100%;
 ul li{
 display: table-cell;
 min-width: 50px;
-border-bottom: 3px solid #f7c80e;
-border-top: 3px solid #f7c80e;
+border-bottom: 3px solid #F7C80E;
+border-top: 3px solid #F7C80E;
 margin-left: 20px;
 margin-top: auto;
 margin-bottom: auto;
